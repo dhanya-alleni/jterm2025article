@@ -1,0 +1,15 @@
+﻿Animal,Organ Type,Delivery Method,Device Type,Jet Pressure (bar),Drug Type,Bioavailability (%),Control Type,Control Bioavailability (%)
+Pig,Small Intestine,Radial Microjet,Tethered,9.4,Insulin,69,Subcutaneous Injection,70
+Pig,Small Intestine,Radial Microjet,Tethered,12,GLP-1 Analogue,75,Subcutaneous Injection,72
+Dog,Stomach,Axial Microjet,Untethered,24.5,Insulin,90,Subcutaneous Injection,85
+Dog,Stomach,Axial Microjet,Untethered,20,siRNA,88,Subcutaneous Injection,88
+Pig,Colon,Axial Microjet,Tethered,10,Insulin,78,Subcutaneous Injection,76
+Pig,Esophagus,Radial Microjet,Untethered,8,GLP-1 Analogue,62,Injection to Lumen,40
+Dog,Small Intestine,Radial Microjet,Tethered,10.5,siRNA,81,Subcutaneous Injection,79
+Dog,Stomach,Axial Microjet,Untethered,18,GLP-1 Analogue,86,Subcutaneous Injection,84
+Pig,Colon,Radial Microjet,Tethered,15,siRNA,77,Injection to Lumen,50
+Pig,Small Intestine,Radial Microjet,Untethered,11,Insulin,74,Subcutaneous Injection,72
+Dog,Stomach,Axial Microjet,Tethered,25,siRNA,89,Subcutaneous Injection,87
+Pig,Small Intestine,Radial Microjet,Tethered,13,GLP-1 Analogue,78,Injection to Lumen,45
+Pig,Esophagus,Axial Microjet,Untethered,9,Insulin,68,Subcutaneous Injection,66
+Dog,Colon,Axial Microjet,Tethered,16,siRNA,82,Subcutaneous Injection,80

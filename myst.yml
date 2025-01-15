@@ -1,0 +1,37 @@
+version: 1
+project: 
+  title: "Squid-inspired jet devices deliver drugs without a need for needles"
+  description: Microjet delivery systems that are inspired by cephalopods’ propulsion methods enable the needle-free administration of large biomolecules through the lining of the gastrointestinal tract. These devices not only achieve drug-absorption rates comparable to or exceeding those of conventional injections, but could also transform the management of chronic diseases and treatment experience.
+  keywords:
+    - Needle-free drug delivery
+    - Cephalopod-inspired microjets
+    - Gastrointestinal biomolecule absorption
+  subject: Biology
+  authors: 
+    - name: Sai Dhanya Alleni
+      corresponding: true
+      orcid: 0009-0001-7941-0357
+      affiliation: ncssm
+      email: alleni26s@ncssm.edu
+      roles:
+        - Conceptualization
+        - Data Curation
+        - Formal Analysis
+        - Funding Acquisition
+        - Investigation
+        - Methodology
+        - Project Administration
+        - Software
+        - Resources
+        - Supervision
+        - Validation
+        - Visualization
+        - Review & Editing
+  abbreviations: 
+    GI: Gastrointestinal
+    GLP-1: Glucagon-like Peptide-1
+    NC: Negative Control
+    SC: Subcutaneous
+    siRNA: Small Interfering RNA
+site:
+  template: article-theme
